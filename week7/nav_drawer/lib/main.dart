@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:nav_drawer/setting_page.dart';
 
 void main() => runApp(const MyApp());
 
@@ -28,10 +29,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   // Define widget options for each index
   static const List<Widget> _widgetOptions = <Widget>[
-    Text(
-      'Home Page',
-      style: optionStyle,
-    ),
+    SettingsPage(), // if want this index[0] to show SettingsPage()
     Text(
       'Business Page',
       style: optionStyle,

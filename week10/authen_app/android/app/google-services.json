@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992073294013",
+    "project_id": "fir-test-be88e",
+    "storage_bucket": "fir-test-be88e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992073294013:android:6f86a8d2dc630805ad17d4",
+        "android_client_info": {
+          "package_name": "com.example.authen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8jxYlCCPM2OYpwgNEJQ21mrSZHCzrONU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
